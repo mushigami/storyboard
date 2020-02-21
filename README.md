@@ -5,8 +5,11 @@ Ahmet Samet Celebi 02/02/2020
 
 
 /////HOW TO COMPILE/////
+
 #For storyboard itself:
+
 	-Files:
+	
 		-Main.cpp
 		-Notes.h
 		-StoryBoard.cpp
@@ -18,6 +21,7 @@ Ahmet Samet Celebi 02/02/2020
 		g++ Main.cpp Notes.h StoryBoard.cpp StoryBoard.h UserInterface.h UserInterface.cpp -o storyboard.exe
 		
 #For test:
+
 	-Files:
 		-Test.cpp
 		-Test.h
